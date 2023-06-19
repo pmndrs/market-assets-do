@@ -1,0 +1,13 @@
+{
+  "name": "Gold",
+  "creator": "ambientcg",
+  "license": 1,
+  "category": "PBR",
+  "maps": {
+    "metalnessMap": "Metal007_1K_Metalness.jpg",
+    "map": "Metal007_1K_Color.jpg",
+    "displacementMap": "Metal007_1K_Displacement.jpg",
+    "normalMap": "Metal007_1K_Normal.jpg",
+    "roughnessMap": "Metal007_1K_Roughness.jpg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Wood Floor",
+  "creator": "ambientcg",
+  "license": 1,
+  "category": "PBR",
+  "maps": {
+    "aoMap": "WoodFloor043_1K_AmbientOcclusion.jpg",
+    "map": "WoodFloor043_1K_Color.jpg",
+    "displacementMap": "WoodFloor043_1K_Displacement.jpg",
+    "metalnessMap": "WoodFloor043_1K_Metalness.jpg",
+    "normalMap": "WoodFloor043_1K_Normal.jpg",
+    "roughnessMap": "WoodFloor043_1K_Roughness.jpg"
+  }
+}

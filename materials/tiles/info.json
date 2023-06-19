@@ -1,0 +1,12 @@
+{
+  "name": "Tiles",
+  "creator": "ambientcg",
+  "license": 1,
+  "category": "PBR",
+  "maps": {
+    "map": "Tiles036_1K_Color.jpg",
+    "displacementMap": "Tiles036_1K_Displacement.jpg",
+    "normalMap": "Tiles036_1K_Normal.jpg",
+    "roughnessMap": "Tiles036_1K_Roughness.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Marble",
+  "creator": "ambientcg",
+  "license": 1,
+  "category": "PBR",
+  "maps": {
+    "map": "Marble006_1K_Color.jpg",
+    "displacementMap": "Marble006_1K_Displacement.jpg",
+    "normalMap": "Marble006_1K_Normal.jpg",
+    "roughnessMap": "Marble006_1K_Roughness.jpg"
+  }
+}

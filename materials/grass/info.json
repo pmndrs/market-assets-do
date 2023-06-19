@@ -1,0 +1,13 @@
+{
+  "name": "Grass",
+  "creator": "ambientcg",
+  "license": 1,
+  "category": "PBR",
+  "maps": {
+    "aoMap": "Grass001_1K_AmbientOcclusion.jpg",
+    "map": "Grass001_1K_Color.jpg",
+    "displacementMap": "Grass001_1K_Displacement.jpg",
+    "normalMap": "Grass001_1K_Normal.jpg",
+    "roughnessMap": "Grass001_1K_Roughness.jpg"
+  }
+}
